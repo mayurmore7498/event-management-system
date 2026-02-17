@@ -104,7 +104,7 @@ Git
 
 🔧 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/event-management-system.git
+git clone https://github.com/mayurmore7498/event-management-system
 cd event-management-system
 
 
